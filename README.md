@@ -34,7 +34,7 @@
 
 ## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
 
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight&locale=en" alt="Karn-Tiwari" /></p>
+<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=Karn-Tiwari&show_icons=true&theme=tokyonight&locale=en" alt="Karn-Tiwari" /></p>
 
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Karn-Tiwari&&theme=tokyonight" alt="Karn-Tiwari" /></p>
