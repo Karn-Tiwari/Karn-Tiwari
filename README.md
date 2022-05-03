@@ -1,11 +1,56 @@
 <!-- Profile count -->
-<img alt = "Visitors"  src = "https://komarev.com/ghpvc/?username=Karn-Tiwari"/>
-<h1>Hello! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1627974769/48327/hello_sign.gif?1627974769" width="40"/> </h1>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://Karn-Tiwari.codes">Karn Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-<h4>Hi Its me KARN TIWARI very happy to see you here 😄. Currently I am a 2nd year Computer Science Btech student.</h4>
+
+
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Karn Tiwari | 💻 Front-End Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
+
  
+ <h5 align="center">
+   <i>⚡️Myself->kt⚡️</i>
+  </h5>
+ 
+ 
+<br />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
+<p align="center">
+  <h3> I'm 20 years old Self-taught Front-End developer from India.</h3>
+</p>
 
+ - 💻 I am learning **DSA, React** and **MySQL**.
+
+- 😄 Looking for open source opportunities.
+
+- 🎶 I'm really into **Music**.
+
+- 😋 Loves **Movie and songs**.
+  
+- **Pronouns** - **He**, **They**.
+ 
+ <p align="center">
+  <h4> || Front-End Developer || Competitive Programming ||</h4>
+   </p>
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Karn-Tiwari&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
 
 <!-- </b><br><br> -->
 
@@ -15,56 +60,44 @@
    [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/im_kt__/)
    [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://karntiwari5353@gmail.com/)
    
-   <img width="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br>
-  
-
-## About me:
-
-- 💻 I am learning **DSA, React** and **MySQL**.
-
-- 😄 Looking for open source opportunities.
-
-- 🎶 I'm really into **Music**.
-
-- 😋 Loves **Movie and songs**.
-  
-- **Pronouns** - **He**, **They**.
-
-
-
-## Some stats  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width = 32px> </h2>
-
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api?username=Karn-Tiwari&show_icons=true&theme=tokyonight&locale=en" alt="Karn-Tiwari" /></p>
-
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Karn-Tiwari&&theme=tokyonight" alt="Karn-Tiwari" /></p>
-
-<!--  Most used language  -->
-
-  <a align="Right" width="50%" href="https://github.com/Karn-Tiwari/github-readme-activity-graph"><img  alt="Karn Tiwari's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karn-Tiwari&theme=tokyonight&langs_count=7"/></a>
-
-
-
-  <a href="https://github.com/Karn-Tiwari/github-readme-activity-graph"><img  alt="Karn Tiwari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Karn-Tiwari&&theme=tokyonight"/></a> 
+   <br>
   
 
 
 
-## Skills <img src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = 64px></h2>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Karn-Tiwari/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karn-Tiwari&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+  
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  
+  </div>
+  <br>
+  
+  <p align = center>
+ <div align = center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Karn-Tiwari&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+ </div>
+</p>
 
 
- <img align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> 
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
- <img align="left"  width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/react.svg'> 
- <img  align="left" width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> 
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/git.png"/>
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/github.png"/>
- <img  align="left" width ='32px' src="https://img.icons8.com/color/48/000000/mySQL.png"/>
+
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+
+
 <br><br>
 
-## My Trophies <img src = "https://media.giphy.com/media/JzqRWjBTKZXSE/giphy.gif" width = 64px> </h2>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Karn-Tiwari&column=7&theme=tokyonight&no-frame=true"/>
-  <img width="120%" alt="Github" src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif" />
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!-- End -->
