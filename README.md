@@ -38,9 +38,10 @@
 - 😋 Loves **Movie and songs**.
   
 - **Pronouns** - **He**, **They**.
- 
  <p align="center">
+   <div align="center">
   <h4> || Front-End Developer || Competitive Programming ||</h4>
+               </div>
    </p>
 
 <!--  -->
@@ -55,11 +56,14 @@
 <!-- </b><br><br> -->
 
 <!--   <b> Contact me here:-  -->
+<p align="center">
+   <div align="center">
    [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/karn-tiwari/) 
    [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/k2vxqr7Da2) 
    [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/im_kt__/)
    [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://karntiwari5353@gmail.com/)
-   
+</div>
+      </p>
    <br>
   
 
@@ -67,18 +71,18 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
+
+<p align="center">
+  <div align="center">
     <a href="https://github.com/Karn-Tiwari/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karn-Tiwari&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Karn-Tiwari&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
   
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   
   </div>
-  <br>
+  
   
   <p align = center>
  <div align = center>
@@ -89,13 +93,7 @@
 
 
 
-
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-
-
-<br><br>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
