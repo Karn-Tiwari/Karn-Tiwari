@@ -58,10 +58,18 @@
 <!--   <b> Contact me here:-  -->
 <p align="center">
    <div align="center">
-   [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/karn-tiwari/) 
-   [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/k2vxqr7Da2) 
-   [<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/im_kt__/)
-   [<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>](https://karntiwari5353@gmail.com/)
+      <a href="https://www.linkedin.com/in/karn-tiwari/">
+   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+          <a href="https://discord.gg/k2vxqr7Da2">
+   <img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+      </a>
+              <a href="https://www.instagram.com/im_kt__/">
+   <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>
+                  <a href="karntiwari5353@gmail.com">
+   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>
+      </a>
 </div>
       </p>
    <br>
