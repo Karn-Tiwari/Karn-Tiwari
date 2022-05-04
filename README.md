@@ -67,7 +67,7 @@
               <a href="https://www.instagram.com/im_kt__/">
    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
       </a>
-                  <a href="karntiwari5353@gmail.com">
+                  <a href="https://karntiwari5353@gmail.com/">
    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow.svg?&style=for-the-badge&logo=gmail&logoColor=red"/>
       </a>
 </div>
