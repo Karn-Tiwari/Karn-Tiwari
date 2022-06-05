@@ -1,6 +1,6 @@
 <!-- Profile count -->
 <div align="center">
-   <h1>Hi there, I'm <a href="https://Karn-Tiwari.codes">Karn Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height ="60px"width="60px"> </h1>
+   <h1>Hi there, I'm <a href="https://Karn-Tiwari.codes">Karn Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height ="40px"width="60px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=15"> 
