@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Karn Tiwari | 💻 Front-End Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Karn Tiwari | 💻 MERN Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 
@@ -26,11 +26,8 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <p align="center">
-  <h3> I'm 20 years old Self-taught Front-End developer from India.</h3>
+  <h3> I'm 23 years old Self-taught MERN developer from India.</h3>
 </p>
-
- - 💻 I am learning **DSA, React** and **MySQL**.
-
 - 😄 Looking for open source opportunities.
 
 - 🎶 I'm really into **Music**.
@@ -40,7 +37,7 @@
 - **Pronouns** - **He**, **They**.
  <p align="center">
    <div align="center">
-  <h4> || Front-End Developer || Competitive Programming ||</h4>
+  <h4> || MERN Developer || Competitive Programming ||</h4>
                </div>
    </p>
 
